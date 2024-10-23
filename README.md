@@ -33,9 +33,7 @@ Users should be able to:
 ![alt text](image-1.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://pricing-component-mocha.vercel.app/)
 
 ## My process
 
